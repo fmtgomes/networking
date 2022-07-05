@@ -15,7 +15,7 @@ Aula 01
     - Explicar
     - PARE
 
----
+
 
 ### Não estou entendendo tudo, o que faço?
 
@@ -34,7 +34,7 @@ Aula 02
 
 Programação nada mais é do que ensinar o computador
 
----
+
 
 ### Ensinar o computador
 
@@ -51,7 +51,7 @@ Programação nada mais é do que ensinar o computador
     → Maneira correta de escrever
     
 
----
+
 
 ## Front-end e Back-end
 
@@ -96,7 +96,7 @@ Programação nada mais é do que ensinar o computador
     → Banco de dados para proteger os dados do seu programa.
     
 
----
+
 
 ## HTML
 
@@ -154,7 +154,6 @@ Ex.: imagem, texto grande, link, parágrafo, etc.
 -->
 ```
 
----
 
 ## GitHub
 
