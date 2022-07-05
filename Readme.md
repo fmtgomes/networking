@@ -263,5 +263,4 @@ caixa de papelã
     
     → Conteúdo, Largura, Altura, Borda, Preenchimento (espaço interno), 
     Espaçamento (espaço externo)
-    <img src="D:/Usuarios/Fabio/Downloads/CSS.png">
-    
+    <img src="https://nikitahl.com/images/dev-tools/box-model.png">
