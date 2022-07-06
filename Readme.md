@@ -242,7 +242,7 @@ body {
 }
 
 .class {
-  /* peso 10 */
+  /* peso 10 = Colocar a CLASS nos elementos que quero a mesma cor*/
 }
 
 element {
@@ -262,4 +262,16 @@ caixa de papelã
     
     → Conteúdo, Largura, Altura, Borda, Preenchimento (espaço interno), 
     Espaçamento (espaço externo)
+    → Margin = Espaço externo
+    → Padding = Preenchimento
+    → Border = Borda da caixa
+    → Width = Largura da caixa
+    → Height = Altura da caixa
+    → Box-sizing = Qual tamanho vai ficar a caixa
+    → Text-align = Alinhamento do texto da caixa/conteúdo
+    → Display = Destravar a caixa (flex)
+     → Align-items = Alinha a linha dos itens na caixa
+     → Justify-content = Alinha a coluna do conteúdo da caixa
+    → Weight = Peso da fonte
+    <br>
     <img src="https://nikitahl.com/images/dev-tools/box-model.png">
